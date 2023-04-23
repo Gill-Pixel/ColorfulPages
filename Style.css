@@ -1,0 +1,13 @@
+.masterhead {
+    display: flex;
+    background:#9FC4FF;
+    height: 75px;
+    justify-content: center;
+}
+
+.body{
+    display: flexbox;
+    justify-content: center;
+}
+/*const myElement = document.getElementById("#Explain");
+myElement.style.color = "red";/*
